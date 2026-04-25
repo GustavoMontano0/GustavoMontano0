@@ -11,7 +11,7 @@ Systems Engineering student at UMSS, focused on web development. I'm passionate 
 
 ### Contacto y Redes
 
-- ✉️ Email: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=cm.guss2004@gmail.com" target="_blank">cm.guss2004@gmail.com</a>
+- ✉️ Email: [cm.guss2004@gmail.com](mailto:cm.guss2004@gmail.com)
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/gustavo-monta%C3%B1o-cabrera-a92443406/" target="_blank" rel="noopener noreferrer">Gustavo Montaño Cabrera</a>
 - 🎮 Steam / Juegos: <a href="https://steamcommunity.com/profiles/76561199172309990/" target="_blank" rel="noopener noreferrer">Gusss!_.</a>
 

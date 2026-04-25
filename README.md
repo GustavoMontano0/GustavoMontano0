@@ -1,12 +1,12 @@
 # <p align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="38" alt="hi" /> Hola, soy Gustavo Montaño Cabrera ✌️</p>
 
-### <p align="center">Estudiante de Ingeniería de Sistemas · Desarrollador Web & Admin Linux</p>
+### <p align="center">Estudiante de Ingeniería de Sistemas · Desarrollador Web</p>
 
 ### Sobre mí
 
 <p>
 	<a href="https://github.com/GustavoMontano0" target="_blank" rel="noopener noreferrer"><img src="./assets/developer.gif" alt="Coding gif" width="390" align="right" /></a>
-  Soy estudiante de Ingeniería de Sistemas en la UMSS, enfocado en el desarrollo de aplicaciones web y la administración de servidores. Me gusta transformar ideas en proyectos funcionales, optimizar bases de datos y explorar nuevas tecnologías, como la creación de agentes de IA. Cuando no estoy programando, disfruto de los videojuegos y la botánica.
+Systems Engineering student at UMSS, focused on web development. I'm passionate about transforming ideas into real projects, optimizing databases, and exploring emerging technologies like AI. Outside of programming, I enjoy playing video games and spending time in nature.
 </p>
 
 ### Contacto y Redes

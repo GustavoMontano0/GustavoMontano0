@@ -3,7 +3,7 @@
 <img align="right" width="400" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" alt="Animación de computadora" />
 
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=false&vCenter=true&width=433&height=75&lines=Yo_soy+Gustavo;Estudiante_de_Sistemas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=false&vCenter=true&width=433&height=75&lines=Yo_soy_Gustavo_Montaño;Estudiante_de_Sistemas" alt="Typing SVG" />
 </div>
 
 ### 👨‍💻 Sobre mí

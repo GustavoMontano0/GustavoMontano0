@@ -5,15 +5,15 @@
 ### Sobre mí
 
 <p>
-	<a href="https://github.com/GustavoMontano0" target="_blank" rel="noopener noreferrer"><img src="https://media.giphy.com/media/VbKLOdvCxBFNZpYvgq/giphy.gif" alt="Coding gif" width="390" align="right" /></a>
+	<a href="https://github.com/GustavoMontano0" target="_blank" rel="noopener noreferrer"><img src="./assets/developer.gif" alt="Coding gif" width="390" align="right" /></a>
   Soy estudiante de Ingeniería de Sistemas en la UMSS, enfocado en el desarrollo de aplicaciones web y la administración de servidores. Me gusta transformar ideas en proyectos funcionales, optimizar bases de datos y explorar nuevas tecnologías, como la creación de agentes de IA. Cuando no estoy programando, disfruto de los videojuegos y la botánica.
 </p>
 
 ### Contacto y Redes
 
 - ✉️ Email: <a href="mailto:cm.guss2004@gmail.com" target="_blank" rel="noopener noreferrer">cm.guss2004@gmail.com</a>
-- 💼 LinkedIn: <a href="[https://www.linkedin.com/in/gustavo-monta%C3%B1o-cabrera-a92443406/]" target="_blank" rel="noopener noreferrer">Gustavo Montaño Cabrera</a>
-- 🎮 Steam / Juegos: <a href="[https://steamcommunity.com/profiles/76561199172309990/]" target="_blank" rel="noopener noreferrer">Gusss!_.</a>
+- 💼 LinkedIn: <a href="(https://www.linkedin.com/in/gustavo-monta%C3%B1o-cabrera-a92443406/)" target="_blank" rel="noopener noreferrer">Gustavo Montaño Cabrera</a>
+- 🎮 Steam / Juegos: <a href="(https://steamcommunity.com/profiles/76561199172309990/)" target="_blank" rel="noopener noreferrer">Gusss!_.</a>
 
 <br><br>
 
